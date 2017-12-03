@@ -1,0 +1,53 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding:0;
+
+  }
+
+  body {
+  background: #2E8B57;
+  color: #FFFFFF;
+  }
+
+.mainContainer {
+  width: 200px;
+  line-height: 1.5;
+  overflow: auto;
+}
+
+.startButton{
+  height: 100px;
+  width: 200px;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: #2E8B57;
+  border: 4px solid #FFFFFF;
+  border-radius: 6px;
+}
+
+.wideContainer{
+  width: 600px;
+  line-height: 2;
+  overflow: auto;
+}
+
+.emotionTile{
+  height: 100px;
+  width: 150px;
+  padding: 10px;
+  margin: 20px;
+  font-size: 15px;
+  color: #FFFFFF;
+  background-color: #2E8B57;
+  border: 4px solid #18412a;
+  border-radius: 6px;
+}
+
+.thanks{
+  font-size: 30px;
+  font-weight: bold;
+}
